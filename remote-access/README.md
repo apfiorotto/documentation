@@ -10,6 +10,8 @@ Sometimes you need to access a Raspberry Pi without connecting it to a monitor. 
     - Remote access to the Pi over the internet using Weaved
 - [VNC](vnc/README.md)
     - Remote access to the Pi's graphical interface, viewed in a window on another computer
+- [VNC Screen Sharing] (vnc-ss/README.md)
+    - Remote control of the Pi's graphical interface, as if using the connected screen, keyboard and mouse.
 - [SSH](ssh/README.md)
     - Access the command line of the Pi from another computer
 - [SFTP](ssh/sftp.md)
